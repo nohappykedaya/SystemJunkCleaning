@@ -19,7 +19,6 @@
 
 ## 运行截图
 ![image](https://github.com/user-attachments/assets/f0aacdcf-961e-4fe9-be44-fd0a7f7c1fd9)
-![image](https://github.com/user-attachments/assets/f0aacdcf-961e-4fe9-be44-fd0a7f7c1fd9)
 
 
 ## 编译与运行
